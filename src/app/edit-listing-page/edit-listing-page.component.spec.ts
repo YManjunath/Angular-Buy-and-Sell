@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   selector: 'app-listing-data-form',
   template: ''
 })
-class mockListingDataFormComponent {}
+class mockListingDataFormComponent {} 
 
 describe('EditListingPageComponent', () => {
   let component: EditListingPageComponent;
